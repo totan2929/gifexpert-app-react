@@ -1,3 +1,3 @@
 # GifExpertApp
 
-Repositorio de la practica del proyecto de _GifExpertApp_ de React.
+Repositorio de la práctica del proyecto de _GifExpertApp_ de React.
